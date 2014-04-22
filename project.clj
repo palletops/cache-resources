@@ -1,4 +1,4 @@
-(defproject com.palletops/cache-resources "0.1.0"
+(defproject com.palletops/cache-resources "0.1.1-SNAPSHOT"
   :description "Cache resources that need closing."
   :url "https://github.com/palletops/cache-resource"
   :license {:name "Eclipse Public License"
